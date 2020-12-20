@@ -8,13 +8,14 @@
 Projeto Desenvolvido durante a Next Level Week 01, ministrado pela Rockeseat
 
 ## WEB:
-<img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web1.jpeg" style="max-width:70%;">
-<img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web2.jpeg" style="max-width:70%;">
+<img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web1.jpeg" width=600px>
+<img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web2.jpeg" width=600px>
+<img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web3.jpeg" width=600px>
     
 ##Mobile:
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile1.jpeg" />
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile2.jpeg" />
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile3jpeg" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile1.jpeg" width=300px/>
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile2.jpeg" width=300px/>
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/mobile3.jpeg" width=300px/>
 
 
 
