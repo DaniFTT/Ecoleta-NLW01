@@ -29,17 +29,12 @@ Projeto Desenvolvido durante a Next Level Week 01, ministrado pela Rockeseat
 
 
 
-Ferramentas usadas:
+##Ferramentas usadas:
 
-[nodejs]: https://nodejs.org/
-[typescript]: https://www.typescriptlang.org/
-[expo]: https://expo.io/
-[reactjs]: https://reactjs.org
-[rn]: https://facebook.github.io/react-native/
-[yarn]: https://yarnpkg.com/
-[vscode]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[license]: https://opensource.org/licenses/MIT
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-[rs]: https://rocketseat.com.br
+-[nodejs]: https://nodejs.org/<br>
+-[typescript]: https://www.typescriptlang.org/<br>
+-[expo]: https://expo.io/<br>
+-[reactjs]: https://reactjs.org<br>
+-[rn]: https://facebook.github.io/react-native/<br>
+-[vscode]: https://code.visualstudio.com/g<br>
+-[rs]: https://rocketseat.com.br<br>
