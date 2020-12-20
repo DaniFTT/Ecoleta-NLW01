@@ -40,3 +40,6 @@ Projeto Desenvolvido durante a Next Level Week 01, ministrado pela Rockeseat
 -[rn]: https://facebook.github.io/react-native/<br>
 -[vscode]: https://code.visualstudio.com/g<br>
 -[rs]: https://rocketseat.com.br<br>
+
+
+Agradecimento especial a toda a Rocketseat pelo incrivel conteúdo ✌❤
