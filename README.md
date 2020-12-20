@@ -1,11 +1,10 @@
 # Ecoleta-NLW01
-
+## Projeto Desenvolvido durante a Next Level Week 01, ministrado pela Rockeseat
  <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/meubanner.jpeg" />
 </h1>
 
 
-Projeto Desenvolvido durante a Next Level Week 01, ministrado pela Rockeseat
 
 ## WEB:<br>
 <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web1.jpeg" width=600px>
